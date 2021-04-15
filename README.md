@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I'm Romain, a front end developer.
+
+
 <!--
 **RomainDesson/RomainDesson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
