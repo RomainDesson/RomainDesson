@@ -16,4 +16,5 @@ I'm specialized in JavaScript, TypeScript and React.
 
 #### SOCIAL & WORK
 <a href="https://www.linkedin.com/in/romain-desson-935466168/">Linkedin</a>
-https://www.malt.fr/profile/romaindesson
+
+<a href ="https://www.malt.fr/profile/romaindesson">Malt.fr</a>
