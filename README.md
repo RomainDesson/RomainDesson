@@ -15,5 +15,5 @@ I'm specialized in JavaScript, TypeScript and React.
 
 
 #### SOCIAL & WORK
-<img src="https://user-images.githubusercontent.com/68992798/114866353-4b666380-9da8-11eb-933e-2f6e0c9ef702.png"><a href="https://www.linkedin.com/in/romain-desson-935466168/"></a></img>
+<a href="https://www.linkedin.com/in/romain-desson-935466168/">Linkedin</a>
 https://www.malt.fr/profile/romaindesson
