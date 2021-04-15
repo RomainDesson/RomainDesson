@@ -4,7 +4,7 @@ I'm Romain, a freelance front end developer from France.
 
 I'm specialized in JavaScript, TypeScript and React.
 
-📚 I'm learning everyday about clean code, hexagonal architecture to always write the cleanest possible code.
+📚 I'm learning everyday about craftmanship, clean code and hexagonal architecture to always write the cleanest possible code.
 
 #### MY TECHS 
 ![image](https://user-images.githubusercontent.com/68992798/114865723-82884500-9da7-11eb-9dd4-fa9df9a782e1.png)
