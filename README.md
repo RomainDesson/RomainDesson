@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Romain, a freelance front end developer from France.
+I'm Romain, a front end developer from France.
 
 I'm specialized in JavaScript, TypeScript and React.
 
