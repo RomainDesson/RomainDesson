@@ -1,10 +1,10 @@
-### Hi there 👋
+### Salut ! 👋
 
-I'm Romain, a front end developer from France.
+Je suis Romain, un fullstack engineer spécialisé dans l'écosystéme Javascript.
 
-I'm specialized in JavaScript, TypeScript and React.
+Les technologies que j'utilise au quotidien sont React, Typescript et NodeJS.
 
-📚 I'm learning everyday about craftmanship, clean code and hexagonal architecture to always write the cleanest possible code.
+📚 J'apprends tous les jours sur les sujets Craft, le clean code et la clean architecture.
 
 #### MY TECHS 
 ![image](https://user-images.githubusercontent.com/68992798/114865723-82884500-9da7-11eb-9dd4-fa9df9a782e1.png)
