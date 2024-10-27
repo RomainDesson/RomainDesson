@@ -20,6 +20,6 @@ I'm specialized in JavaScript, TypeScript and React.
 
 <a href ="https://www.malt.fr/profile/romaindesson">Malt.fr</a>
 
-<a href ="https://wetotech.com/">Personnal website</a>
+<a href ="https://romain-desson.com/">Personnal website</a>
 
 <a href="https://gitlab.com/astrachain-dev-team/dot/-/merge_requests?scope=all&state=merged">Gitlab</a>
